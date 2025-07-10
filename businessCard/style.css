@@ -1,0 +1,51 @@
+.logo{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.img1{
+    width: 400px;
+    height: 500px;
+    margin: 0;
+   
+}
+.img-container{
+    background-color: rgb(54, 148, 148);
+    display: flex;
+   justify-content: center;
+   margin: 0;
+}
+.content{
+    text-align: center;
+    background-color: rgb(41, 110, 99);
+    margin: 0;
+    padding: 30px;
+}
+.color{
+    background-color: rgb(54, 148, 148);
+    margin: 0;
+}
+.btn{
+    border: 2px solid rgb(214, 46, 46);
+    border-radius: 17px;
+    padding: 3px;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 0px 5px;
+    padding: 1px 15px;
+     background-color: rgb(99, 114, 114);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+    border: 3px solid rgb(30, 63, 146);
+    border-radius: 10px;
+    display: block;
+    border:1px solid dotted blue;
+    margin: 30px 300px;
+}
+.general{
+    margin:3px;
+}
